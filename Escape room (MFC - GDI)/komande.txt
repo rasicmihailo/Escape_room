@@ -1,0 +1,9 @@
+V - pomeranje velike kazaljke
+M - pomeranje male kazaljke
+O - rotacija sata u levo
+P - pomeranje sata u desno
+R - donji desni deo slagalice postaje crven
+G - donji desni deo slagalice postaje zelen
+B - donji desni deo slagalice postaje plav
+Q - rotacija slike u levo
+E - rotacija slike u desno
